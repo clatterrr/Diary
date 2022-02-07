@@ -1,0 +1,31 @@
+BTC                         FTM                 ANT
+
+ETH                        ONT                LTC
+
+SOL                       BLZ             CRV
+
+BNB                       UNFI          ONE
+
+LUNA                   CTSI           EOS
+
+ATOM                      ZIL           DYDX
+
+MATIC              SKL          SUSHI
+
+XRP                 LIT             ROSE
+
+DOT           COMP
+
+ADA              SFP
+
+SANDBOX        XTZ
+
+MANA         LINK
+
+AVAX             ICP
+
+TRX           LRC
+
+NEAR        HBAR
+
+GALA             KNC
